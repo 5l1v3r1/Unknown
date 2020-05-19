@@ -6,6 +6,6 @@ As you read in the definition, the Unknown tool encrypts the given file or input
   
 * Line encryption mode : It creates and encrypts the entered words or numbers in a unique asymmetric key.
 * File encryption mode : It encrypts the given file with a ready asymmetric key.
-* File encryption mode : It decrypts the given file with a ready asymmetric key.
+* File decryption mode : It decrypts the given file with a ready asymmetric key.
 
 ![](.unknown.gif)
