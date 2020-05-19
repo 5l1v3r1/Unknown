@@ -4,8 +4,12 @@ As you read in the definition, the Unknown tool encrypts the given file or input
 ## Usage
   Just run and choose your mode. When you want to return main menu just press enter.
   
-* Line encryption mode : It creates and encrypts the entered words or numbers in a unique asymmetric key.
+* Line encryption mode : It creates and encrypts the entered words or numbers in a unique symmetric key.
 * File encryption mode : It encrypts the given file with a ready asymmetric key.
 * File decryption mode : It decrypts the given file with a ready asymmetric key.
+
+## Project status
+☆ Still in development </br>
+☆ Some bugs will coming with new features and bug fixes in each release.
 
 ![](.unknown.gif)
